@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Desktop\Универ\4 семестр\Веб.прил\Nepomnyashchikh-211-352-web-app\lab3\ve"
+VIRTUAL_ENV="D:\Desktop\Универ\4 семестр\Веб.прил\Nepomnyashchikh-211-352-web-app\LabRab_3\ve"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
