@@ -74,7 +74,6 @@ for intf, value in trunk.items():
             print(f" {command}")
 
 
-# этот вариант использует словарь, вместо if/else
 trunk_actions = {"add": " add", "del": " remove", "only": ""}
 
 for intf, value in trunk.items():
